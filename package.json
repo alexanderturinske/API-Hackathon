@@ -12,6 +12,7 @@
   "dependencies": {
     "body-parser": "^1.14.2",
     "express": "^4.13.4",
+    "js-beautify": "^1.6.2",
     "kerberos": "0.0.18",
     "mongoose": "^4.4.2"
   }
